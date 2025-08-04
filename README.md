@@ -199,7 +199,8 @@ hcran-channel-allocation_5G/
 │ ├── BaseStation.{ned,cc,h}
 │ ├── RRH.{ned,cc,h}
 │ └── omnetpp.ini # [Existing] & [Proposed] configs (+ sweeps)
-│
+│── docs/
+│ ├── report.pdf
 ├── README.md # You are here 🙂
 ```
 
